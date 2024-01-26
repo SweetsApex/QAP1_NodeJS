@@ -1,0 +1,14 @@
+{
+  "name": "qap1-nodejs",
+  "version": "1.0.0",
+  "description": "QAP1 ",
+  "main": "EventEmitter.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
